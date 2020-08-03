@@ -69,4 +69,4 @@ while i < number:
 print("\n")
 
 print("Total Games Won :", games_won)
-print("Total Games Played", number)
+print("Total Games Played:", number)
